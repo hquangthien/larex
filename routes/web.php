@@ -21,5 +21,5 @@ Route::group(['prefix' => 'admin'], function () {
 });
 
 Route::get('test', function () {
-    echo "it worked";
+    echo "it worked !!!";
 });
